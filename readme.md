@@ -80,7 +80,6 @@ _Multiple translations combined_
 _Resources for making your own translations_
 
 ###### Bee Movie Script
-* [Bee Movie Trailer - HD](https://www.youtube.com/watch?v=VONRQMx78YI)
 * [Bee Movie Script - Transcript](http://www.script-o-rama.com/movie_scripts/a1/bee-movie-script-transcript-seinfeld.html)
 
 ###### Bee Movie Trailer
