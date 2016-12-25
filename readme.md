@@ -77,10 +77,11 @@ _Multiple translations combined_
 
 ----
 ## Resources
+_Resources for making your own translations_
 
-Resources for making your own translations
 ###### Bee Movie Script
-* [Bee Movie Script - Transcript](http://www.script-o-rama.com/movie_scripts/a1/bee-movie-script-transcript-seinfeld.html)
+* [Bee Movie Trailer - HD](https://www.youtube.com/watch?v=VONRQMx78YI)
+* [Bee Movie Script - Transcript](http://www.script-o-rama.com/movie_scripts/a1/bee-movie-script-transcript-seinfeld.html)
 
 ###### Bee Movie Trailer
 * [Bee Movie Trailer - HD](https://www.youtube.com/watch?v=VONRQMx78YI)
@@ -108,7 +109,9 @@ _Links, Tools and Software, for creating your own bee movie translations_
 ###### Experimental Text Translation
 * [Applied Poetics -  online lab for potential literature](http://appliedpoetics.org/)
 * [Translating Translating Apollinaire -  a preliminary report](http://www.bpnichol.ca/archive/documents/translating-translating-apollinaire-preliminary-report)
+
 ----
+
 ## Contributing
 
 _Your contributions are appreciated_
